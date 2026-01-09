@@ -3,9 +3,9 @@
 
 - Coding any type of stuff;
 - Learning so many things so I can share with the others in the future;
-- Currently working on two projects: a BaaS integrated with Stripe and a climate data delivery flow via communication applications;
+- I am currently working on two enterprise-level projects, including a supply chain system and a requisition management platform for a large agricultural holding company;
 - Now trying to find a balance between learning programming and improving my English;
-- When I get tired of the computer I like to talk about manga and e-sports;
+- When I get tired of the computer I like to talk about e-sports;
 
 ---
 # How to reach me 🔗
