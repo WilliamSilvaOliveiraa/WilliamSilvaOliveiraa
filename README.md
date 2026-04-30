@@ -6,7 +6,6 @@
 - When i get tired of the computer, i like to talk about e-sports.
 
 ---
-# How to reach me
 <div align="center">
 <!--     <a target='_blank' href="https://x.com/tnkswill">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
